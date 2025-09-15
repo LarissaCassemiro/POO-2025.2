@@ -1,2 +1,3 @@
 # POO-2025.2
-Alteração inicial
+- Alteração inicial
+- alteração forçada
